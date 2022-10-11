@@ -6,5 +6,5 @@ function calculate () {
   const area = radius**2 * 3.14159
 
   
-  document.getElementById('area').innerHTML = 'Area is: ' + area + ' cm²'
+  document.getElementById('area').innerHTML = 'Area is: ' + area + ' '
 }
